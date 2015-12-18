@@ -3,7 +3,7 @@ layout: page
 
 title: ABOUT ME
 
-chart: true
+
 ---
 
 
