@@ -3,13 +3,10 @@ layout: page
 permalink: /about/index.html
 title: ABOUT ME
 tags: [Shivam, Dixit, me, shivamd001]
-imagefeature: cover6.jpg
+
 chart: true
 ---
-<figure>
-  <img src="{{ site.url }}/images/shivam-dixit.jpg" alt="Shivam Dixit">
-  <figcaption>Shivam Dixit</figcaption>
-</figure>
+
 
 {% assign total_words = 0 %}
 {% assign total_readtime = 0 %}
@@ -36,7 +33,7 @@ I'm **Shivam Dixit**, pre-final year undergraduate student and web developer. Du
 I'm pursuing **B.Tech** in Computer Science and Engineering from LNM-IIT, India. I've been working with a software company as a __student employee__ since 2013. I was selected in Google Summer Of Code 2014 in my sophomore year. I've been actively contributing to open source softwares since then. I love to break things, especially web applications and have reported security vulnerabilities in various web applications.
 
 ###Resume
-Download the latest version <a href="{{ site.url }}/assets/resume.pdf">here</a>. Personal information has been removed from the online version of the resume.
+Download the latest version. Personal information has been removed from the online version of the resume.
 
 ###Blog Stats
 
