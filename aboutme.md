@@ -27,12 +27,9 @@ title: ABOUT ME
     {% endif %}
 {% endfor %}
 
-I'm **Shivam Dixit**, pre-final year undergraduate student and web developer. During the daytime you would find me glued to my laptop, at night I fight ninjas. I love to explore new technologies and always looking forward for challenging problems.
+I'm **Vishwajeet Srivastava**, pre-final year undergraduate student and Android Application Developer. I love to analyze various android applications and usually spend time to find out how they work.
 
-I'm pursuing **B.Tech** in Computer Science and Engineering from LNM-IIT, India. I've been working with a software company as a __student employee__ since 2013. I was selected in Google Summer Of Code 2014 in my sophomore year. I've been actively contributing to open source softwares since then. I love to break things, especially web applications and have reported security vulnerabilities in various web applications.
+I'm pursuing **B.Tech** in Computer Science and Engineering from LNMIIT, India.Currently  I've been working with an Indian Startup in the field of Digital Health named HealthGraph India.I am Entreprenuer by heart and an avid startup lover.I have experience working with several startups both techniocally and non-technically.
 
-###Resume
-Download the latest version. Personal information has been removed from the online version of the resume.
-
-###Blog Stats
+I am currently interested in the field of Open Source and actively contributing to some of the open source projects specially in the field of **Android**.Though I am new to the world of open source but with the helping nature and guidance of open source community, I am learning new stuff and actively contributing.
 
