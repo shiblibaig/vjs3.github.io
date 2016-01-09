@@ -25,7 +25,7 @@ This is a collection of some things I've worked on that are easily viewable onli
 
 ##Core C programming Project 
 - **[Data Validation](https://github.com/vjs3/Data-Validation)** - Data Validation Project developed in C in which Library of user defined functions is developed for data validation purposes. Various types of checks for the purpose of data validation has been used such as: <br>
-- Data Check<br>
+  - Data Check<br>
 - Range Check<br>
 - Length Check<br>
 - Fromat Check<br>
