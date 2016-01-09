@@ -19,13 +19,11 @@ This is a collection of some things I've worked on that are easily viewable onli
  - **[Counselling Process Mobile Application](https://github.com/vjs3/UG_Admission)**  - This project is created as part of our Software Engineering and Project Management Course. We have created an Android application to make counselling process of our college user-friendly.Target audience for this application is Counselling committee of college as well as Applicant applying for the admission.
 
 ##Core Java Projects
-
  - **[LifeExpectancy Applet](https://github.com/vjs3/LifeExpectancy)** - Java Applet to visually identify average life expectancy of various countries around the globe(different color for different life expectancy) on the map of the world with the help of data provided by the World Bank in form of csv file.
 
  - **[College Admission Portal](https://github.com/vjs3/College-Admission-Portal)** - This project consists of admission process from filling of applicant form till counselling in MVC pattern. We have used HTML/CSS with Bootstrap for frontend and JSP/Servelets for connecting database with the frontend.DB2 is used by us as database management system and SQL as our query language.
 
 ##Core C programming Project 
-<br>
 - **[Data Validation](https://github.com/vjs3/Data-Validation)** - Data Validation Project developed in C in which Library of user defined functions is developed for data validation purposes. Various types of checks for the purpose of data validation has been used such as: <br>
 1.Data Check<br>
 2.Range Check<br>
@@ -37,9 +35,7 @@ This is a collection of some things I've worked on that are easily viewable onli
 8.Logic Check<br>
 
 ##Open Source Contribution
-
 - **[Open event android app-FOSSASIA](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in the android project of FOSSASIA community.
 
 ##Misc
-
 - **[LaunchBoard]()** - I have initiated this project under the guidance of [Startup Oasis](http://www.startupoasis.in/) (an incubation centre in Jaipur, India) to solve out the issues faced by student entrepreneurs while building their Startups.This also helps in connecting Entrepreneurship Cells of various colleges in and outside Jaipur.
