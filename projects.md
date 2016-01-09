@@ -25,7 +25,7 @@ This is a collection of some things I've worked on that are easily viewable onli
  - **[College Admission Portal](https://github.com/vjs3/College-Admission-Portal)** - This project consists of admission process from filling of applicant form till counselling in MVC pattern. We have used HTML/CSS with Bootstrap for frontend and JSP/Servelets for connecting database with the frontend.DB2 is used by us as database management system and SQL as our query language.
 
 ##Core C programming Project 
-
+<br>
 - **[Data Validation](https://github.com/vjs3/Data-Validation)** - Data Validation Project developed in C in which Library of user defined functions is developed for data validation purposes. Various types of checks for the purpose of data validation has been used such as: <br>
 1.Data Check<br>
 2.Range Check<br>
