@@ -35,23 +35,8 @@ This is a collection of some things I've worked on that are easily viewable onli
 8.Logic Check<br>
 
 ##Open Source Contribution
-<<<<<<< HEAD
-
 - **[Open event android app-FOSSASIA](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in the android project of FOSSASIA community.
-||||||| merged common ancestors
-
--**[Open event android app-FOSSASIA](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in the android project of FOSSASIA community.
-=======
-- **[Open event android app-FOSSASIA](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in the android project of FOSSASIA community.
->>>>>>> 25b903e7d41afc3501049280113e7fc84724ea42
 
 ##Misc
-<<<<<<< HEAD
-
 - **[LaunchBoard]()** - I have initiated this project under the guidance of [Startup Oasis](http://www.startupoasis.in/) (an incubation centre in Jaipur, India) to solve out the issues faced by student entrepreneurs while building their Startups.This also helps in connecting Entrepreneurship Cells of various colleges in and outside Jaipur.
-||||||| merged common ancestors
 
--**[LaunchBoard]()** - I have initiated this project under the guidance of [Startup Oasis](http://www.startupoasis.in/) (an incubation centre in Jaipur, India) to solve out the issues faced by student entrepreneurs while building their Startups.This also helps in connecting Entrepreneurship Cells of various colleges in and outside Jaipur.
-=======
-- **[LaunchBoard]()** - I have initiated this project under the guidance of [Startup Oasis](http://www.startupoasis.in/) (an incubation centre in Jaipur, India) to solve out the issues faced by student entrepreneurs while building their Startups.This also helps in connecting Entrepreneurship Cells of various colleges in and outside Jaipur.
->>>>>>> 25b903e7d41afc3501049280113e7fc84724ea42
