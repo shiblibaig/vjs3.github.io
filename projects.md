@@ -26,16 +26,16 @@ This is a collection of some things I've worked on that are easily viewable onli
 ##Core C programming Project 
 - **[Data Validation](https://github.com/vjs3/Data-Validation)** - Data Validation Project developed in C in which Library of user defined functions is developed for data validation purposes. Various types of checks for the purpose of data validation has been used such as: <br>
   - Data Check<br>
-- Range Check<br>
-- Length Check<br>
-- Fromat Check<br>
-- Consistency Check<br>
-- Check digits<br>
-- Allowed character checks<br>
-- Logic Check<br>
+  - Range Check<br>
+  - Length Check<br>
+  - Fromat Check<br>
+  - Consistency Check<br>
+  - Check digits<br>
+  - Allowed character checks<br>
+  - Logic Check<br>
 
 ##Open Source Contribution
-- **[Open event android app FOSSASIA](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in the android project of FOSSASIA community.
+- **[Open event android app FOSSASIA](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in the android project of [FOSSASIA](http://fossasia.org/) community.
 
 ##Misc
 - **[LaunchBoard]()** - I have initiated this project under the guidance of [Startup Oasis](http://www.startupoasis.in/) (an incubation centre in Jaipur, India) to solve out the issues faced by student entrepreneurs while building their Startups.This also helps in connecting Entrepreneurship Cells of various colleges in and outside Jaipur.
