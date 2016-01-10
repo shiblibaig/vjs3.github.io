@@ -25,33 +25,18 @@ This is a collection of some things I've worked on that are easily viewable onli
 
 ##Core C programming Project 
 - **[Data Validation](https://github.com/vjs3/Data-Validation)** - Data Validation Project developed in C in which Library of user defined functions is developed for data validation purposes. Various types of checks for the purpose of data validation has been used such as: <br>
-1.Data Check<br>
-2.Range Check<br>
-3.Length Check<br>
-4.Fromat Check<br>
-5.Consistency Check<br>
-6.Check digits<br>
-7.Allowed character checks<br>
-8.Logic Check<br>
+  - Data Check<br>
+  - Range Check<br>
+  - Length Check<br>
+  - Fromat Check<br>
+  - Consistency Check<br>
+  - Check digits<br>
+  - Allowed character checks<br>
+  - Logic Check<br>
 
 ##Open Source Contribution
-<<<<<<< HEAD
-
-- **[Open event android app-FOSSASIA](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in the android project of FOSSASIA community.
-||||||| merged common ancestors
-
--**[Open event android app-FOSSASIA](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in the android project of FOSSASIA community.
-=======
-- **[Open event android app-FOSSASIA](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in the android project of FOSSASIA community.
->>>>>>> 25b903e7d41afc3501049280113e7fc84724ea42
+- **[FOSSASIA open event android app](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in this android project of [FOSSASIA](https://github.com/fossasia/open-event-android) community.
 
 ##Misc
-<<<<<<< HEAD
-
 - **[LaunchBoard]()** - I have initiated this project under the guidance of [Startup Oasis](http://www.startupoasis.in/) (an incubation centre in Jaipur, India) to solve out the issues faced by student entrepreneurs while building their Startups.This also helps in connecting Entrepreneurship Cells of various colleges in and outside Jaipur.
-||||||| merged common ancestors
 
--**[LaunchBoard]()** - I have initiated this project under the guidance of [Startup Oasis](http://www.startupoasis.in/) (an incubation centre in Jaipur, India) to solve out the issues faced by student entrepreneurs while building their Startups.This also helps in connecting Entrepreneurship Cells of various colleges in and outside Jaipur.
-=======
-- **[LaunchBoard]()** - I have initiated this project under the guidance of [Startup Oasis](http://www.startupoasis.in/) (an incubation centre in Jaipur, India) to solve out the issues faced by student entrepreneurs while building their Startups.This also helps in connecting Entrepreneurship Cells of various colleges in and outside Jaipur.
->>>>>>> 25b903e7d41afc3501049280113e7fc84724ea42
