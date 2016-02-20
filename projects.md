@@ -39,4 +39,3 @@ This is a collection of some things I've worked on that are easily viewable onli
 
 ##Misc
 - **[LaunchBoard]()** - I have initiated this project under the guidance of [Startup Oasis](http://www.startupoasis.in/) (an incubation centre in Jaipur, India) to solve out the issues faced by student entrepreneurs while building their Startups.This also helps in connecting Entrepreneurship Cells of various colleges in and outside Jaipur.
-
