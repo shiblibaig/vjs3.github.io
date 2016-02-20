@@ -40,7 +40,7 @@ This is a collection of some things I've worked on that are easily viewable onli
 
 ## Technical Content Writing
 - **[GeeksforGeeks](https://geeksforgeeks.org)** - GeeksForGeeks is one of the largest and most famous website among the programming enthusiasts.I am currently writing about core programming concepts in **Java**.Some of my work is as follows:<br>
-- **Super keyword in Java(https://geeksquiz.com/super-keyword/)** - In this article I have covered some of the most important concepts of super keyword in java.
+- **Super keyword in Java(https://geeksquiz.com/super-keyword)** - In this article I have covered some of the most important concepts of super keyword in java.
 
 ## Misc
 - **[LaunchBoard]()** - I have initiated this project under the guidance of [Startup Oasis](http://www.startupoasis.in/) (an incubation centre in Jaipur, India) to solve out the issues faced by student entrepreneurs while building their Startups.This also helps in connecting Entrepreneurship Cells of various colleges in and outside Jaipur.
