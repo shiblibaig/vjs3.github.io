@@ -36,6 +36,7 @@ This is a collection of some things I've worked on that are easily viewable onli
 
 ## Open Source Contribution
 - **[FOSSASIA open event android app](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in this android project of [FOSSASIA](https://github.com/fossasia/open-event-android) community.
+- **[openMRS Android Client](https://github.com/openmrs/openmrs-contrib-android-client)** - [openMRS](http://openmrs.org/) is an open source community creating world's leading open source enterprise electronic medical record system platform.This is android client of openMRS web app in which I am currently helping to resolve existing issues and adding new features. 
 
-##Misc
+## Misc
 - **[LaunchBoard]()** - I have initiated this project under the guidance of [Startup Oasis](http://www.startupoasis.in/) (an incubation centre in Jaipur, India) to solve out the issues faced by student entrepreneurs while building their Startups.This also helps in connecting Entrepreneurship Cells of various colleges in and outside Jaipur.
