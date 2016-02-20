@@ -10,7 +10,7 @@ This is a collection of some things I've worked on that are easily viewable onli
 ---
 
 ##Android Projects
-- **[HealthGraph India](http://healthgraph.in/)** - Currently working on this application as Android Developer for Bangalore based startup **HealthGraph India**.My work includes providing tablet support for existing mobile application and add additional features for tablet mode itself.This application is still in the testing phase and will be launched shortly.
+ - **[HealthGraph India](http://healthgraph.in/)** - Currently working on this application as Android Developer for Bangalore based startup **HealthGraph India**.My work includes providing tablet support for existing mobile application and add additional features for tablet mode itself.This application is still in the testing phase and will be launched shortly.
 
  - **[CricFriends](https://play.google.com/store/apps/details?id=com.mindefy.cricfrnds.app&hl=en)** - Design and developed this application from scratch as part of my summer internship at Indore based startup **Mind-e-fy  Solutions**.This application helps you to find people with similar interest in playing cricket in your nearby locality.
 
