@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Top 5 open source android libraries
-tags: [personal, blog]
-permalink: /2016/01/13/first-post/
+tags: [android, blog, opensource]
+permalink: /2016/03/05/second-post/
 ---
 
 Finally I am writing this article after getting some time after finishing my university exams.
