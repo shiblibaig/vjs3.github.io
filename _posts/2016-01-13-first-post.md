@@ -2,6 +2,7 @@
 layout: post
 title: Welcome to my personal website!
 tags: [personal, blog]
+permalink: /2016/01/13/first-post
 ---
 
 I am very excited to finally be able to write this post and let everyone know that I have my personal website/blog into the world of internet. I wanted to build a site from past few months but was unable to do so because of several reasons, so in the year 2016, I finally decided to get a domain name and now I have my own website.
