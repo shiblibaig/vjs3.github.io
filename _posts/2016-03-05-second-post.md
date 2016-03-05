@@ -1,4 +1,9 @@
-## Top 5 must know open source android libraries
+---
+layout: post
+title: Top 5 open source android libraries
+tags: [personal, blog]
+permalink: /2016/01/13/first-post/
+---
 
 Finally I am writing this article after getting some time after finishing my university exams.
 This will be a small article to describe about some of the open source android libraries which I found most useful to me specifically during contributing to open source projects.
