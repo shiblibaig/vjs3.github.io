@@ -78,13 +78,13 @@ paginate: 5
 paginate_path: "/page:num/"
 
 # Default YAML values (more information on Jekyll's site)
-defaults:
   -
     scope:
       path: ""
       type: "posts"
     values:
-      comments: true  # add comments to all blog posts
+      comments: true  # add comments to all blog posts 
+      show-share: true # add sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
