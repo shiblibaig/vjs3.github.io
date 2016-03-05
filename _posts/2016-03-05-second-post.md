@@ -1,4 +1,4 @@
-##Top 5 must know open source android libraries
+## Top 5 must know open source android libraries
 
 Finally I am writing this article after getting some time after finishing my university exams.
 This will be a small article to describe about some of the open source android libraries which I found most useful to me specifically during contributing to open source projects.
